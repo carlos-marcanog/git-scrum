@@ -1,0 +1,17 @@
+.container{
+  padding: 1em;
+  background-color:rgb(240, 245, 247);
+  width: 50%;
+}
+
+#warnings{
+  text-align: center;
+  color: rgb(173, 31, 31);
+  font-weight: bold;
+}
+
+#exitoso{
+  text-align: center;
+  color: rgb(43, 155, 58);
+  font-weight: bold;
+}
